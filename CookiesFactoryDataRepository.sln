@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesFactoryDataRepository", "CookiesFactoryDataRepository\CookiesFactoryDataRepository.csproj", "{93C438FB-8824-4E89-847A-044EFEB06A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesFactoryAPI", "CookiesFactoryAPI\CookiesFactoryAPI.csproj", "{8DBDFA47-8F70-46F3-BCC9-F5B4B94264C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C438FB-8824-4E89-847A-044EFEB06A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C438FB-8824-4E89-847A-044EFEB06A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C438FB-8824-4E89-847A-044EFEB06A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C438FB-8824-4E89-847A-044EFEB06A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBDFA47-8F70-46F3-BCC9-F5B4B94264C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBDFA47-8F70-46F3-BCC9-F5B4B94264C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBDFA47-8F70-46F3-BCC9-F5B4B94264C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBDFA47-8F70-46F3-BCC9-F5B4B94264C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E71A73-EDEA-4C9B-B7CB-7330FB4C302D}
+	EndGlobalSection
+EndGlobal
